@@ -1,2 +1,2 @@
 # Check-in-flight-system
--- to be descriped later
+-- to be described later
